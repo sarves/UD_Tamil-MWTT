@@ -35,7 +35,7 @@ UPOS: converted from manual
 XPOS: manual native
 Features: converted from manual
 Relations: converted from manual
-Contributors: Krishnamurthy, Parameswari; Balasubramani, Keerthana; K, Sarveswaran
+Contributors: Krishnamurthy, Parameswari; K, Sarveswaran; Balasubramani, Keerthana
 Contributing: elsewhere
 Contact: sarves@cse.mrt.ac.lk; pksh@uohyd.ac.in
 ===============================================================================
