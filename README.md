@@ -1,20 +1,21 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
+UD_Tamil-MWTT (Modern Written Tamil Treebank) has xxx sentences taken from Thomas Lehmann's A Grammar of Modern Tamil
+book (1993).
 
 
 # Introduction
 
-...
+We have added xxx examples taken from a text called A Grammar of Modern Tamil by Thomas Lehamann (1993). We are in the process of adding the rest of the examples from the book. We will also add data from other contemporary sources which have been published after 1980 in near future. 
 
 
 # Acknowledgments
 
-...
+
 
 ## References
 
-* (citation)
+Lehmann, Thomas. A grammar of modern Tamil. Pondicherry Institute of Linguistics and Culture, 1993.
 
 
 # Changelog
@@ -34,8 +35,8 @@ UPOS: converted from manual
 XPOS: manual native
 Features: converted from manual
 Relations: converted from manual
-Contributors: K, Sarveswaran; Krishnamurthy, Parameswari; Balasubramani, Keerthana
+Contributors: Krishnamurthy, Parameswari; Balasubramani, Keerthana; K, Sarveswaran
 Contributing: elsewhere
-Contact: sarves@cse.mrt.ac.lk
+Contact: sarves@cse.mrt.ac.lk; pksh@uohyd.ac.in
 ===============================================================================
 </pre>
